@@ -6,4 +6,4 @@ Here are the solutions for all the HackerRank questions that I have attempted my
 | Difficulty | Challenges | Solutions |
 | :--------: | :--------: | :-------: |
 | Medium     | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [climbing-leaderboards.py](https://github.com/tianruen/hacker-rank-solutions/blob/main/climbing-leaderboard.py)|
-| Easy | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 
+| Easy | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [designer-pdf-viewer.py](https://github.com/tianruen/hacker-rank-solutions/blob/main/designer-pdf-viewer.py)
