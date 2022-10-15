@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Here are the solutions for all the HackerRank questions that I have attempted myself using Python 3.
+Here are the solutions for all the HackerRank questions that I have attempted using Python 3.
 
 
 ## Algorithms
