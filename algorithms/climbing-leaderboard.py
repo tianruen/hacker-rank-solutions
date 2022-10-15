@@ -1,5 +1,4 @@
 def climbingLeaderboard(ranked, player):
-    # Write your code here
     r = []
     ranked = list(set(ranked))
     ranked.sort(reverse=True)
