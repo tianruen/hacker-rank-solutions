@@ -1,5 +1,4 @@
 def designerPdfViewer(h, word):
-    # Write your code here
     a = ('abcdefghijklmnopqrstuvwxyz')
     d = dict(zip(a,h))
     x = []
